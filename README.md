@@ -61,4 +61,24 @@ What was in the actual folder:
 ![image](https://github.com/mkhaliq12/RS_ChipDesign/assets/139871694/de2fbefd-0d25-4fa3-8f47-fa7376c9b093)
 
 #### L3
+merged.lef files split into .nom, .max and .min.
+config.tcl contains all configurations made.
+cmds.log contains all commands used.
+Ran Synthesis:
+![image](https://github.com/mkhaliq12/RS_ChipDesign/assets/139871694/fdad0772-e8b6-45e6-ba53-c8201698feae)
+
+
+#### L4
+Explains GitHub and how to use ./flow.tcl.
+Repeated flow diagram from SK2 L4
+
+#### L5
+Synthesis results in file synthesis.AREA_0.stat.rpt
+
+![image](https://github.com/mkhaliq12/RS_ChipDesign/assets/139871694/5148f62a-c9af-46f9-b3d3-c267f5a2116e)
+
+Flop Ratio = 1,596/10,104 = 0.158
+Timing reports shown in video were not found the directory.
+
+
 
