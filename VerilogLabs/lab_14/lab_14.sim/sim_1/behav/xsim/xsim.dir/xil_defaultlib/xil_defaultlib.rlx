@@ -1,0 +1,13 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb1.v,1687248445,verilog,,,,Tb1,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb2.v,1687253273,verilog,,,,Tb2,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb3.v,1687254371,verilog,,,,Tb3,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb4.v,1687261666,verilog,,,,Tb4,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sources_1/new/MealyFSMrom.v,1687254074,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb3.v,,MealyFSMrom,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sources_1/new/SequenceDetectorMealy.v,1687248725,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb1.v,,SequenceDetectorMealy,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sources_1/new/SequenceDetectorMoore.v,1687253129,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb2.v,,SequenceDetectorMoore,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sources_1/new/TrafficController.v,1687261760,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_14/lab_14.srcs/sim_1/new/Tb4.v,,TrafficController,,,,,,,,

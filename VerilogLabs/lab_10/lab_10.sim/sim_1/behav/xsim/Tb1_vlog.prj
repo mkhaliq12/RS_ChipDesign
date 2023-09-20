@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab_10.srcs/sources_1/new/Mux1bit2x1.v" \
+"../../../../lab_10.srcs/sources_1/new/Mux3bit2x1.v" \
+"../../../../lab_10.srcs/sources_1/new/Mux4bit2X1.v" \
+"../../../../lab_10.srcs/sources_1/new/Mux5bit2x1.v" \
+"../../../../lab_10.srcs/sources_1/new/NonUnifromAdder.v" \
+"../../../../lab_10.srcs/sim_1/new/Tb1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

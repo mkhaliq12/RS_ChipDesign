@@ -1,0 +1,16 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb1.v,1686820463,verilog,,,,Tb1,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb2.v,1686821770,verilog,,,,Tb2,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb3.v,1686822539,verilog,,,,Tb3,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb4.v,1686824405,verilog,,,,Tb4,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb5.v,1686825734,verilog,,,,Tb5,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/DFF.v,1686818788,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/PIPOreg.v,,DFF,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/PIPOreg.v,1686822161,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb3.v,,PIPOreg,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/PISOreg.v,1686824349,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb4.v,,PISOreg,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/RingCounter.v,1686825278,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb5.v,,RingCounter,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/SIPOreg.v,1686821504,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb2.v,,SIPOreg,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sources_1/new/SISOreg.v,1686819303,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_8/lab_8.srcs/sim_1/new/Tb1.v,,SISOreg,,,,,,,,

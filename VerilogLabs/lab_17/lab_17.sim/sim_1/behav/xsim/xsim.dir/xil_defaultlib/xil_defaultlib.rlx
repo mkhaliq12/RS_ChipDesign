@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sim_1/new/Tb1.v,1687414051,verilog,,,,Tb1,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sim_1/new/Tb2.v,1687418003,verilog,,,,Tb2,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sources_1/new/Counter.v,1687413724,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sources_1/new/ProgramMem.v,,Counter,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sources_1/new/ProgramMem.v,1687418342,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sources_1/new/TopModule.v,,ProgramMem,,,,,,,,
+C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sources_1/new/TopModule.v,1687418115,verilog,,C:/Users/mehbo/OneDrive/Documents/lab_17/lab_17.srcs/sim_1/new/Tb2.v,,TopModule,,,,,,,,
